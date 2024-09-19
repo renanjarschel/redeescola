@@ -7,4 +7,14 @@
     --cor-backgraound: #7cff02 ;
     --font-family: "Ruslan Display", sans-serif;
 }
+body{  
+    color: var(--cor-texto);
+    font-family: var(--font-family);
+    height: 100vh;
+    margin: 0;
+}
+.Cabecalho{
+background-color: var(--cor-secundaria);
+text-align: center;
 
+}
