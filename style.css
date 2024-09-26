@@ -6,7 +6,8 @@
     --cor-secundaria:hsl(0, 100%, 50%);
     --cor-texto:#000000;
     --cor-de-fundo:#d9ff00;
-    --fonte: "Dancing Script" ,sans-serif;
+    --fonte:"Bebas Neue", sans-serif;
+
 }
 
 body{
@@ -37,4 +38,9 @@ nav a{
     color: var(--cor-texto);
     margin: 0 2rem 1rem 0;
     font-size: 1.2rem;
+}
+nav a:hover{
+    text-decoration: underline;
+    transform: scale(0.90);
+    transition:  transform 0.1s;
 }
