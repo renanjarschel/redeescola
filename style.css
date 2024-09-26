@@ -4,8 +4,8 @@
 :root {
     --cor-principal:#91ff00;
     --cor-secundaria:hsl(0, 100%, 50%);
-    --cor-texto:#335242;
-    --cor-de-fundo:#453c5c;
+    --cor-texto:#000000;
+    --cor-de-fundo:#d9ff00;
     --fonte: "Dancing Script" ,sans-serif;
 }
 
