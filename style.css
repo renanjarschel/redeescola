@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --cor-principal:#beed80;
-    --cor-secundaria:#51647a;
-    --cor-texto:#59d999;
+    --cor-principal:#91ff00;
+    --cor-secundaria:hsl(0, 100%, 50%);
+    --cor-texto:#335242;
     --cor-de-fundo:#453c5c;
     --fonte: "Dancing Script" ,sans-serif;
 }
