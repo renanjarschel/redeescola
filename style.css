@@ -51,7 +51,7 @@ footer{
     justify-content: center;
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
-    width: 100%;
+    width: 200%;
     height: 3rem;
     margin-top: 2rem;
 }
