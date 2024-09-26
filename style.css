@@ -4,9 +4,8 @@
 :root {
     --cor-principal:#e00000;
     --cor-secundaria:#ffee00;
-    --cor-texto:#b3ff00;
+    --cor-texto:#000000;
     --cor-de-fundo:#e8ff16;
-    --fonte: "Bebas Neue", system-ui;
 }
 
 body{
