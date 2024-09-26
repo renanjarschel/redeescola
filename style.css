@@ -1,33 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --cor-principal: #b300fa ;
-    --cor-secundaria: #ffdc18 ;
-    --cor-texto: #000000 ;
-    --cor-backgraound: #7cff02 ;
-    --font-family: "Ruslan Display", sans-serif;
+    --cor-principal:#beed80;
+    --cor-secundaria:#51647a;
+    --cor-texto:#59d999;
+    --cor-de-fundo:#453c5c;
+    --fonte: "Dancing Script" ,sans-serif;
 }
-body{  
+
+body{
+    background-color: var(--cor-de-fundo);
     color: var(--cor-texto);
-    font-family: var(--font-family);
+    font-family: var(--fonte);
     height: 100vh;
     margin: 0;
 }
-.Cabecalho{
-background-color: var(--cor-secundaria);
-text-align: center;
 
+.cabecalho{
+    background-color: var(--cor-secundaria);
+    text-align: center;
 }
-.h1_titulo{
+
+.cabecalho_titulo{
     font-size: 2rem;
     color: var(--cor-texto);
-    font-weight: 700;
 }
+
 nav{
-    display: flex;
     justify-content: center;
     font-weight: 400;
 }
+
 nav a{
     text-decoration: none;
     color: var(--cor-texto);
