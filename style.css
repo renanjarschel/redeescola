@@ -18,7 +18,7 @@ background-color: var(--cor-secundaria);
 text-align: center;
 
 }
-.Cabecalho__titulo{
+.h1__titulo{
     font-size: 2rem;
     color: var(--cor-texto);
     font-weight: 700;
