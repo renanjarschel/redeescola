@@ -18,7 +18,7 @@ background-color: var(--cor-secundaria);
 text-align: center;
 
 }
-.h1__titulo{
+.h1_titulo{
     font-size: 2rem;
     color: var(--cor-texto);
     font-weight: 700;
