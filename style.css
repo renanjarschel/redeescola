@@ -18,3 +18,7 @@ background-color: var(--cor-secundaria);
 text-align: center;
 
 }
+.Cabecalho__titulo{
+    font-size: 2rem;
+    color: var(--cor-texto);
+}
